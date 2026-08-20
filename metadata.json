@@ -1,0 +1,6 @@
+{
+  "name": "Shimena",
+  "description": "An interactive storytelling game celebrating Shimena's 10-stage handcrafted textile journey from Gamo cotton farms to finished heirloom.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
